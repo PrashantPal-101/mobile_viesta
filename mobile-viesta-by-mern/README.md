@@ -1,1 +1,0 @@
-# mobile-viesta-by-mern
